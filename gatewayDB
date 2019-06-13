@@ -1,12 +1,12 @@
 {
   "results": [
     {
-      "message": "Gateway Database is not Up and running",
+      "message": "Gateway Database1 is not Up and running",
       "status": "Non-Active",
       "server_id": "Gateway Database"
     },
     {
-      "message": "Gateway Database is not Up and running",
+      "message": "Gateway Database2 is not Up and running",
       "status": "Non-Active",
       "server_id": "Gateway Database"
     },
