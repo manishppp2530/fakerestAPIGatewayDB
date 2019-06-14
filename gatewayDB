@@ -1,5 +1,5 @@
 {
-  "results": [
+  "result": [
     {
       "message": "Gateway Database1 is not Up and running",
       "status": "Non-Active",
